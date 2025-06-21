@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos" ⭐⭐⭐⭐⭐.
+        // Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos" ⭐⭐⭐⭐⭐⭐⭐.
         var scanner = new Scanner(System.in);
         var anoBase = OffsetDateTime.now().getYear();
         System.out.print("Qual é o seu nome? ");
